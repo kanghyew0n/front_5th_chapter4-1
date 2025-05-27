@@ -2,9 +2,11 @@ import Image from "next/image";
 import styles from "./page.module.css";
 
 export default function Home() {
+  console.log("헉");
   return (
     <div className={styles.page}>
       <main className={styles.main}>
+        <h1>kanghyewon</h1>
         <Image
           className={styles.logo}
           src="/next.svg"
