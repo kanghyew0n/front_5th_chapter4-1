@@ -72,5 +72,12 @@ CloudFront는 성능을 위해 파일을 캐시하지만, 문제는 이 캐시�
 GitHub Actions에서 AWS 배포를 하기 위해선 `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `DISTRIBUTION_ID` 등의 민감한 값을 GitHub의 Repository Secret에 저장해 env:로 불러와야 합니다.
 
 
+## 2️⃣ 심화 과제
+
+
+|         S3             |             CloudFronts         |
+|------------------------|-----------------------------------|
+|<img width="572" alt="스크린샷 2025-05-29 오후 10 23 57" src="https://github.com/user-attachments/assets/b2fa35c9-ea14-437b-984f-4a285c9080ad" />|<img width="578" alt="스크린샷 2025-05-29 오후 10 24 44" src="https://github.com/user-attachments/assets/80870d11-4aa0-4be1-8040-9afaf038faff" />|
+
 
 
