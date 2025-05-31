@@ -7,8 +7,8 @@
 
 # 주요 링크
 
-- S3 버킷 웹사이트 엔드포인트: ______
-- CloudFrount 배포 도메인 이름: ______
+- S3 버킷 웹사이트 엔드포인트: https://d388ywrs6ccope.cloudfront.net
+- CloudFrount 배포 도메인 이름: http://kanghyewon.s3-website.ap-northeast-2.amazonaws.com/
 
 # 주요 개념
 
